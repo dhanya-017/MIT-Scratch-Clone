@@ -50,6 +50,8 @@ A modern web-based implementation of MIT's Scratch programming environment, buil
   - Error prevention mechanisms
     
 ## Video Demonstration
+  ![image](https://github.com/user-attachments/assets/31cc73e0-3d0b-4732-a315-7e6ed63f6417)
+  ![image](https://github.com/user-attachments/assets/2fd9761d-2766-467c-a862-ac9de0c76ece)
 
   [Working project video link](https://drive.google.com/file/d/1mCvfajGq-Ku_niQKHVYmQm78kKaa6vlV/view?usp=sharing)
   
