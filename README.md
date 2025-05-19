@@ -9,7 +9,7 @@
 
 A modern web-based implementation of MIT's Scratch programming environment, built with React and TypeScript. This project provides a visual programming interface where users can create programs by dragging and dropping code blocks.
 
-[Live Demo](https://mit-scratch-clone-tan.vercel.app/) • [Documentation](https://github.com/dhanya-017/MIT-Scratch-Clone/wiki) • [Report Bug](https://github.com/dhanya-017/MIT-Scratch-Clone/issues)
+[Live Demo](https://mit-scratch-clone-tan.vercel.app/) 
 
 </div>
 
